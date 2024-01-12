@@ -6,8 +6,9 @@ export function SearchForm() {
       <form>
         <Label>
           Publicações
-          <input className="input-styled" type="text" placeholder="Buscar conteudo"/>
+         
         </Label>
+        <input className="input-styled" type="text" placeholder="Buscar conteudo"/>
       </form>
     </SearchFormContainer>
   )
